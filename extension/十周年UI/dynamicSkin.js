@@ -18,7 +18,7 @@ decadeModule.import(function (lib, game, ui, get, ai, _status) {
 				speed: 1,		//	可删掉	播放速度，不填默认为1；
 				hideSlots: ['隐藏的部件'],	// 隐藏不需要的部件，想知道具体部件名称请使用SpineAltasSplit工具查看
 				clipSlots: ['裁剪的部件'],	// 剪掉超出头的部件，仅针对露头动皮，其他勿用
-				background: "xxx.jpg",	//	可删掉	背景图片，注意后面要写后缀名，如.jpg .png等 
+				background: "xxx.jpg",	//	可删掉	背景图片，注意后面要写后缀名，如.jpg .png等
 			}
 		},
 	- 为了方便得到动皮的显示位置信息，请在游戏选将后，用控制台或调试助手小齿轮执行以下代码(没用到的属性请删掉以免报错):
@@ -432,7 +432,74 @@ decadeModule.import(function (lib, game, ui, get, ai, _status) {
 				background: 'skin_zhugeguo_LanHeAiLian_bg.png',
 			},
 		},
-	};
+    xushao: { // 许劭
+      评世雕龙: {
+        name: '许劭/评世雕龙/daiji2',
+        teshu: 'play2',
+        shan: 'play3',
+        x: [0, 0.4],
+        y: [0, 0.4],
+        scale: 0.95,
+        angle: -5,
+        //speed: 1,
+        background: '许劭/评世雕龙/static_bg.png',
+        shizhounian: true,
+        chuchang: {
+          name: '许劭/评世雕龙/chuchang',
+          action: 'play',
+          scale: 0.6,
+        },
+        gongji: {
+          name: '许劭/评世雕龙/chuchang2',
+          action: ['gongji', 'jineng'],
+          scale: 0.8,
+        },
+        // beijing: {
+        //   name: '许劭/评世雕龙/beijing',
+        //   x: [0, 0.5],
+        //   y: [0, 0.5],
+        //   scale: 0.3,
+        // },
+        zhishixian: {
+          name: '许劭/评世雕龙/shouji2',
+          scale: 0.5,
+          speed: 0.6,
+          delay: 0.2,
+          effect: {
+            name: '许劭/评世雕龙/shouji',
+            scale: 0.4,
+            speed: 0.8,
+            delay: 0.3,
+          },
+        },
+      },
+      声名鹊起: {
+        name: '许劭/声名鹊起/daiji2',
+        x: [0, 0.42],
+        y: [0, 0.5],
+        scale: 0.95,
+        angle: 0,
+        //speed: 1,
+        shizhounian: true,
+        chuchang: {
+          name: '许劭/声名鹊起/chuchang',
+          scale: 1,
+          action: 'play',
+        },
+        gongji: {
+          name: '许劭/声名鹊起/chuchang',
+          scale: 1.2,
+          action: 'play',
+        },
+        beijing: {
+          name: '许劭/声名鹊起/beijing',
+          x: [0, 0.5],
+          y: [0, 0.5],
+          scale: 0.3,
+        },
+      },
+    },
+  };
 
 	var extend = {
 		re_baosanniang: decadeUI.dynamicSkin.baosanniang,

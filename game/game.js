@@ -47950,6 +47950,7 @@
 				var addtional_extention_names=[
 					['十周年UI', true],
 					['挑战卡牌', true],
+          ['皮肤切换', true],
 				];
 				var need_reload=false;
 				for(var i=0;i<addtional_extention_names.length;i++){

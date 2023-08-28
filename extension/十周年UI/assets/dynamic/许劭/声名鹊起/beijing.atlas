@@ -1,0 +1,202 @@
+
+beijing.png
+size: 1971,1971
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: true
+  xy: 1042, 286
+  size: 939, 460
+  orig: 939, 460
+  offset: 0, 0
+  index: -1
+hua
+  rotate: true
+  xy: 1504, 286
+  size: 939, 456
+  orig: 939, 456
+  offset: 0, 0
+  index: -1
+shu2
+  rotate: false
+  xy: 2, 123
+  size: 818, 591
+  orig: 820, 592
+  offset: 1, 1
+  index: -1
+shu3
+  rotate: true
+  xy: 1560, 1318
+  size: 651, 272
+  orig: 653, 272
+  offset: 0, 0
+  index: -1
+shu3hou
+  rotate: false
+  xy: 967, 75
+  size: 226, 209
+  orig: 227, 209
+  offset: 0, 0
+  index: -1
+shu4
+  rotate: false
+  xy: 2, 716
+  size: 1038, 509
+  orig: 1038, 509
+  offset: 0, 0
+  index: -1
+shu5
+  rotate: false
+  xy: 2, 1227
+  size: 1556, 742
+  orig: 1557, 753
+  offset: 0, 2
+  index: -1
+xushaodaiji/huabanhou/huabanhou_00
+  rotate: false
+  xy: 2, 27
+  size: 91, 25
+  orig: 234, 108
+  offset: 99, 40
+  index: -1
+xushaodaiji/huabanhou/huabanhou_02
+  rotate: false
+  xy: 1195, 147
+  size: 186, 68
+  orig: 234, 108
+  offset: 48, 37
+  index: -1
+xushaodaiji/huabanhou/huabanhou_04
+  rotate: true
+  xy: 967, 524
+  size: 190, 68
+  orig: 234, 108
+  offset: 43, 35
+  index: -1
+xushaodaiji/huabanhou/huabanhou_06
+  rotate: true
+  xy: 1901, 1357
+  size: 194, 68
+  orig: 234, 108
+  offset: 37, 33
+  index: -1
+xushaodaiji/huabanhou/huabanhou_08
+  rotate: false
+  xy: 1195, 217
+  size: 198, 67
+  orig: 234, 108
+  offset: 31, 31
+  index: -1
+xushaodaiji/huabanhou/huabanhou_10
+  rotate: false
+  xy: 2, 54
+  size: 201, 67
+  orig: 234, 108
+  offset: 26, 29
+  index: -1
+xushaodaiji/huabanhou/huabanhou_12
+  rotate: true
+  xy: 1901, 1553
+  size: 205, 68
+  orig: 234, 108
+  offset: 20, 26
+  index: -1
+xushaodaiji/huabanhou/huabanhou_14
+  rotate: true
+  xy: 1901, 1760
+  size: 209, 68
+  orig: 234, 108
+  offset: 14, 24
+  index: -1
+xushaodaiji/huabanhou/huabanhou_16
+  rotate: false
+  xy: 1560, 1248
+  size: 212, 68
+  orig: 234, 108
+  offset: 9, 22
+  index: -1
+xushaodaiji/huabanhou/huabanhou_18
+  rotate: true
+  xy: 1834, 1755
+  size: 214, 65
+  orig: 234, 108
+  offset: 4, 21
+  index: -1
+xushaodaiji/huabanhou/huabanhou_20
+  rotate: false
+  xy: 1644, 218
+  size: 116, 66
+  orig: 234, 108
+  offset: 100, 19
+  index: -1
+xushaodaiji/huabanhou/huabanhou_22
+  rotate: false
+  xy: 1525, 217
+  size: 117, 67
+  orig: 234, 108
+  offset: 96, 16
+  index: -1
+xushaodaiji/huabanhou/huabanhou_24
+  rotate: true
+  xy: 205, 2
+  size: 119, 67
+  orig: 234, 108
+  offset: 92, 14
+  index: -1
+xushaodaiji/huabanhou/huabanhou_26
+  rotate: false
+  xy: 274, 56
+  size: 121, 65
+  orig: 234, 108
+  offset: 87, 13
+  index: -1
+xushaodaiji/huabanhou/huabanhou_28
+  rotate: true
+  xy: 967, 399
+  size: 123, 66
+  orig: 234, 108
+  offset: 83, 11
+  index: -1
+xushaodaiji/huabanhou/huabanhou_30
+  rotate: false
+  xy: 1195, 81
+  size: 125, 64
+  orig: 234, 108
+  offset: 78, 10
+  index: -1
+xushaodaiji/huabanhou/huabanhou_32
+  rotate: false
+  xy: 1395, 219
+  size: 128, 65
+  orig: 234, 108
+  offset: 73, 7
+  index: -1
+xushaodaiji/huabanhou/huabanhou_34
+  rotate: true
+  xy: 1834, 1356
+  size: 130, 65
+  orig: 234, 108
+  offset: 68, 5
+  index: -1
+xushaodaiji/huabanhou/huabanhou_36
+  rotate: true
+  xy: 1834, 1488
+  size: 131, 65
+  orig: 234, 108
+  offset: 64, 3
+  index: -1
+xushaodaiji/huabanhou/huabanhou_38
+  rotate: true
+  xy: 1834, 1621
+  size: 132, 65
+  orig: 234, 108
+  offset: 60, 1
+  index: -1
+xushaodaiji/yun_00
+  rotate: true
+  xy: 822, 118
+  size: 596, 143
+  orig: 597, 146
+  offset: 0, 3
+  index: -1
